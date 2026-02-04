@@ -16,12 +16,12 @@
 // USER CONFIGURATION (EDIT THESE)
 // -----------------------------------------------------------------------------
 
-#define WIFI_SSID         "FamilyDillon"
-#define WIFI_PASS         "atnkdm5q"
+#define WIFI_SSID         "WIFI_SSID"
+#define WIFI_PASS         "WIFI_PASS"
 
-#define APP_KEY           "fdf7d6c2-9220-46d2-8f5c-02c85e6ec0cd"      // from https://portal.sinric.pro
-#define APP_SECRET        "7f9c2779-1bfb-4917-af05-7ddf78519ce9-c28fb974-59cd-4f79-b138-03a5790d6e13"   // from https://portal.sinric.pro
-#define LIGHT_ID          "698266e7da2ae47a6c8ede87"               // from https://portal.sinric.pro
+#define APP_KEY           "APP_KEY"      // from https://portal.sinric.pro
+#define APP_SECRET        "APP_SECRET"   // from https://portal.sinric.pro
+#define LIGHT_ID          "LIGHT_ID"               // from https://portal.sinric.pro
 
 // LED CONFIGURATION
 #define LED_PIN           4        // GPIO 4. (Check your board! On NodeMCU-32S, D4 might be GPIO 4, or D2 might be GPIO 2)
