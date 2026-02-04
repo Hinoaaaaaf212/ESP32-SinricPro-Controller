@@ -1,0 +1,11 @@
+# Arduino IDE
+*.elf
+*.hex
+*.bin
+*.lock
+build/
+
+# VS Code / PlatformIO
+.vscode/
+.pio/
+*.log
